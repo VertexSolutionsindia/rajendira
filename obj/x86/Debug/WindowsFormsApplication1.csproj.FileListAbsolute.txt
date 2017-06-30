@@ -1,0 +1,433 @@
+C:\Users\Bestshoppee1\AppData\Local\Temporary Projects\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Bestshoppee1\AppData\Local\Temporary Projects\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Bestshoppee1\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Bestshoppee1\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Bestshoppee1\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Bestshoppee1\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\Bestshoppee1\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\Bestshoppee1\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.frmCategory.resources
+C:\Users\Bestshoppee1\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.frmSubCategory.resources
+C:\Users\Bestshoppee1\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.frmCustomerDetails.resources
+C:\Users\Bestshoppee1\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.frmproductEntry.resources
+C:\Users\Bestshoppee1\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.frmsalesinvoice.resources
+C:\Users\Bestshoppee1\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Estimate.resources
+C:\Users\Bestshoppee1\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Login.resources
+E:\SAKKAPPAN\E\shopping\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+E:\SAKKAPPAN\E\shopping\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+E:\SAKKAPPAN\E\shopping\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\SAKKAPPAN\E\shopping\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\SAKKAPPAN\E\shopping\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Estimate.resources
+E:\SAKKAPPAN\E\shopping\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+E:\SAKKAPPAN\E\shopping\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.frmCategory.resources
+E:\SAKKAPPAN\E\shopping\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.frmCustomerDetails.resources
+E:\SAKKAPPAN\E\shopping\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.frmproductEntry.resources
+E:\SAKKAPPAN\E\shopping\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.frmsalesinvoice.resources
+E:\SAKKAPPAN\E\shopping\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.frmSubCategory.resources
+E:\SAKKAPPAN\E\shopping\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Login.resources
+E:\SAKKAPPAN\E\shopping\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\SAKKAPPAN\E\shopping\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+E:\SAKKAPPAN\E\shopping\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+E:\SAKKAPPAN\E\shopping\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+E:\SAKKAPPAN\E\shopping\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Product_Code_type.resources
+E:\SAKKAPPAN\E\shopping\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.PriceList.resources
+E:\SAKKAPPAN\E\shopping\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Price_List_edit.resources
+E:\SAKKAPPAN\E\shopping\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.transport.resources
+E:\SAKKAPPAN\E\shopping\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.INVOICE_REPORT.resources
+E:\SAKKAPPAN\E\shopping\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Estimate_Report_details.resources
+E:\SAKKAPPAN\E\G.V.H\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+E:\SAKKAPPAN\E\G.V.H\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\SAKKAPPAN\E\G.V.H\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\SAKKAPPAN\E\G.V.H\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+E:\SAKKAPPAN\E\G.V.H\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Category_report.resources
+E:\SAKKAPPAN\E\G.V.H\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Customer_Report_Details.resources
+E:\SAKKAPPAN\E\G.V.H\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Estimate__report_show.resources
+E:\SAKKAPPAN\E\G.V.H\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Estimate.resources
+E:\SAKKAPPAN\E\G.V.H\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Estimate_Report_details.resources
+E:\SAKKAPPAN\E\G.V.H\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+E:\SAKKAPPAN\E\G.V.H\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.frmCategory.resources
+E:\SAKKAPPAN\E\G.V.H\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.frmCustomerDetails.resources
+E:\SAKKAPPAN\E\G.V.H\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.frmproductEntry.resources
+E:\SAKKAPPAN\E\G.V.H\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.frmsalesinvoice.resources
+E:\SAKKAPPAN\E\G.V.H\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.frmSubCategory.resources
+E:\SAKKAPPAN\E\G.V.H\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Invoice_report.resources
+E:\SAKKAPPAN\E\G.V.H\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.invoice_report_details.resources
+E:\SAKKAPPAN\E\G.V.H\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Invoice_report_show.resources
+E:\SAKKAPPAN\E\G.V.H\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Login.resources
+E:\SAKKAPPAN\E\G.V.H\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.PriceList.resources
+E:\SAKKAPPAN\E\G.V.H\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Price_List_edit.resources
+E:\SAKKAPPAN\E\G.V.H\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Price_List_report.resources
+E:\SAKKAPPAN\E\G.V.H\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Product_Code_type.resources
+E:\SAKKAPPAN\E\G.V.H\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Product_entry_report.resources
+E:\SAKKAPPAN\E\G.V.H\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\SAKKAPPAN\E\G.V.H\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Send_sms.resources
+E:\SAKKAPPAN\E\G.V.H\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Subcategry_report.resources
+E:\SAKKAPPAN\E\G.V.H\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.transport.resources
+E:\SAKKAPPAN\E\G.V.H\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+E:\SAKKAPPAN\E\G.V.H\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+E:\SAKKAPPAN\E\G.V.H\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+E:\SAKKAPPAN\E\G.V.H\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Edit_invoice.resources
+E:\SAKKAPPAN\E\G.V.H\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form2.resources
+E:\SAKKAPPAN\D\G.V.H\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+E:\SAKKAPPAN\D\G.V.H\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+E:\SAKKAPPAN\D\G.V.H\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+E:\SAKKAPPAN\D\G.V.H\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\SAKKAPPAN\D\G.V.H\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\SAKKAPPAN\D\G.V.H\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+E:\SAKKAPPAN\D\G.V.H\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Category_report.resources
+E:\SAKKAPPAN\D\G.V.H\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Customer_Report_Details.resources
+E:\SAKKAPPAN\D\G.V.H\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Edit_invoice.resources
+E:\SAKKAPPAN\D\G.V.H\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Estimate__report_show.resources
+E:\SAKKAPPAN\D\G.V.H\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Estimate.resources
+E:\SAKKAPPAN\D\G.V.H\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Estimate_Report_details.resources
+E:\SAKKAPPAN\D\G.V.H\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+E:\SAKKAPPAN\D\G.V.H\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form2.resources
+E:\SAKKAPPAN\D\G.V.H\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.frmCategory.resources
+E:\SAKKAPPAN\D\G.V.H\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.frmCustomerDetails.resources
+E:\SAKKAPPAN\D\G.V.H\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.frmproductEntry.resources
+E:\SAKKAPPAN\D\G.V.H\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.frmsalesinvoice.resources
+E:\SAKKAPPAN\D\G.V.H\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.frmSubCategory.resources
+E:\SAKKAPPAN\D\G.V.H\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Invoice_report.resources
+E:\SAKKAPPAN\D\G.V.H\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.invoice_report_details.resources
+E:\SAKKAPPAN\D\G.V.H\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Invoice_report_show.resources
+E:\SAKKAPPAN\D\G.V.H\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Login.resources
+E:\SAKKAPPAN\D\G.V.H\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.PriceList.resources
+E:\SAKKAPPAN\D\G.V.H\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Price_List_edit.resources
+E:\SAKKAPPAN\D\G.V.H\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Price_List_report.resources
+E:\SAKKAPPAN\D\G.V.H\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Product_Code_type.resources
+E:\SAKKAPPAN\D\G.V.H\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Product_entry_report.resources
+E:\SAKKAPPAN\D\G.V.H\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\SAKKAPPAN\D\G.V.H\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Send_sms.resources
+E:\SAKKAPPAN\D\G.V.H\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Subcategry_report.resources
+E:\SAKKAPPAN\D\G.V.H\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.transport.resources
+E:\SAKKAPPAN\D\G.V.H\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+E:\SAKKAPPAN\D\G.V.H - Copy\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+E:\SAKKAPPAN\D\G.V.H - Copy\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\SAKKAPPAN\D\G.V.H - Copy\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\SAKKAPPAN\D\G.V.H - Copy\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+E:\SAKKAPPAN\D\G.V.H - Copy\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Category_report.resources
+E:\SAKKAPPAN\D\G.V.H - Copy\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Customer_Report_Details.resources
+E:\SAKKAPPAN\D\G.V.H - Copy\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Edit_invoice.resources
+E:\SAKKAPPAN\D\G.V.H - Copy\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Estimate__report_show.resources
+E:\SAKKAPPAN\D\G.V.H - Copy\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Estimate.resources
+E:\SAKKAPPAN\D\G.V.H - Copy\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Estimate_Report_details.resources
+E:\SAKKAPPAN\D\G.V.H - Copy\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+E:\SAKKAPPAN\D\G.V.H - Copy\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form2.resources
+E:\SAKKAPPAN\D\G.V.H - Copy\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.frmCategory.resources
+E:\SAKKAPPAN\D\G.V.H - Copy\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.frmCustomerDetails.resources
+E:\SAKKAPPAN\D\G.V.H - Copy\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.frmproductEntry.resources
+E:\SAKKAPPAN\D\G.V.H - Copy\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.frmsalesinvoice.resources
+E:\SAKKAPPAN\D\G.V.H - Copy\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.frmSubCategory.resources
+E:\SAKKAPPAN\D\G.V.H - Copy\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Invoice_report.resources
+E:\SAKKAPPAN\D\G.V.H - Copy\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.invoice_report_details.resources
+E:\SAKKAPPAN\D\G.V.H - Copy\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Invoice_report_show.resources
+E:\SAKKAPPAN\D\G.V.H - Copy\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Login.resources
+E:\SAKKAPPAN\D\G.V.H - Copy\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.PriceList.resources
+E:\SAKKAPPAN\D\G.V.H - Copy\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Price_List_edit.resources
+E:\SAKKAPPAN\D\G.V.H - Copy\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Price_List_report.resources
+E:\SAKKAPPAN\D\G.V.H - Copy\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Product_Code_type.resources
+E:\SAKKAPPAN\D\G.V.H - Copy\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Product_entry_report.resources
+E:\SAKKAPPAN\D\G.V.H - Copy\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\SAKKAPPAN\D\G.V.H - Copy\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Send_sms.resources
+E:\SAKKAPPAN\D\G.V.H - Copy\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Subcategry_report.resources
+E:\SAKKAPPAN\D\G.V.H - Copy\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.transport.resources
+E:\SAKKAPPAN\D\G.V.H - Copy\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+E:\SAKKAPPAN\D\G.V.H - Copy\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+E:\SAKKAPPAN\D\G.V.H - Copy\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+E:\SAKKAPPAN\D\Rajendra\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+E:\SAKKAPPAN\D\Rajendra\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+E:\SAKKAPPAN\D\Rajendra\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+E:\SAKKAPPAN\D\Rajendra\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\SAKKAPPAN\D\Rajendra\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\SAKKAPPAN\D\Rajendra\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+E:\SAKKAPPAN\D\Rajendra\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Category_report.resources
+E:\SAKKAPPAN\D\Rajendra\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Customer_Report_Details.resources
+E:\SAKKAPPAN\D\Rajendra\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Edit_invoice.resources
+E:\SAKKAPPAN\D\Rajendra\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Estimate__report_show.resources
+E:\SAKKAPPAN\D\Rajendra\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Estimate.resources
+E:\SAKKAPPAN\D\Rajendra\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Estimate_Report_details.resources
+E:\SAKKAPPAN\D\Rajendra\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+E:\SAKKAPPAN\D\Rajendra\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form2.resources
+E:\SAKKAPPAN\D\Rajendra\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.frmCategory.resources
+E:\SAKKAPPAN\D\Rajendra\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.frmCustomerDetails.resources
+E:\SAKKAPPAN\D\Rajendra\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.frmproductEntry.resources
+E:\SAKKAPPAN\D\Rajendra\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.frmsalesinvoice.resources
+E:\SAKKAPPAN\D\Rajendra\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.frmSubCategory.resources
+E:\SAKKAPPAN\D\Rajendra\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Invoice_report.resources
+E:\SAKKAPPAN\D\Rajendra\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.invoice_report_details.resources
+E:\SAKKAPPAN\D\Rajendra\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Invoice_report_show.resources
+E:\SAKKAPPAN\D\Rajendra\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Login.resources
+E:\SAKKAPPAN\D\Rajendra\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.PriceList.resources
+E:\SAKKAPPAN\D\Rajendra\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Price_List_edit.resources
+E:\SAKKAPPAN\D\Rajendra\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Price_List_report.resources
+E:\SAKKAPPAN\D\Rajendra\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Product_Code_type.resources
+E:\SAKKAPPAN\D\Rajendra\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Product_entry_report.resources
+E:\SAKKAPPAN\D\Rajendra\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\SAKKAPPAN\D\Rajendra\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Send_sms.resources
+E:\SAKKAPPAN\D\Rajendra\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Subcategry_report.resources
+E:\SAKKAPPAN\D\Rajendra\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.transport.resources
+E:\SAKKAPPAN\D\Rajendra\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+E:\SAKKAPPAN\D\Rajendira GARMENTS\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+E:\SAKKAPPAN\D\Rajendira GARMENTS\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\SAKKAPPAN\D\Rajendira GARMENTS\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\SAKKAPPAN\D\Rajendira GARMENTS\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+E:\SAKKAPPAN\D\Rajendira GARMENTS\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Category_report.resources
+E:\SAKKAPPAN\D\Rajendira GARMENTS\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Customer_Report_Details.resources
+E:\SAKKAPPAN\D\Rajendira GARMENTS\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Edit_invoice.resources
+E:\SAKKAPPAN\D\Rajendira GARMENTS\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Estimate__report_show.resources
+E:\SAKKAPPAN\D\Rajendira GARMENTS\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Estimate.resources
+E:\SAKKAPPAN\D\Rajendira GARMENTS\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Estimate_Report_details.resources
+E:\SAKKAPPAN\D\Rajendira GARMENTS\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+E:\SAKKAPPAN\D\Rajendira GARMENTS\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form2.resources
+E:\SAKKAPPAN\D\Rajendira GARMENTS\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.frmCategory.resources
+E:\SAKKAPPAN\D\Rajendira GARMENTS\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.frmCustomerDetails.resources
+E:\SAKKAPPAN\D\Rajendira GARMENTS\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.frmproductEntry.resources
+E:\SAKKAPPAN\D\Rajendira GARMENTS\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.frmsalesinvoice.resources
+E:\SAKKAPPAN\D\Rajendira GARMENTS\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.frmSubCategory.resources
+E:\SAKKAPPAN\D\Rajendira GARMENTS\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Invoice_report.resources
+E:\SAKKAPPAN\D\Rajendira GARMENTS\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.invoice_report_details.resources
+E:\SAKKAPPAN\D\Rajendira GARMENTS\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Invoice_report_show.resources
+E:\SAKKAPPAN\D\Rajendira GARMENTS\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Login.resources
+E:\SAKKAPPAN\D\Rajendira GARMENTS\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.PriceList.resources
+E:\SAKKAPPAN\D\Rajendira GARMENTS\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Price_List_edit.resources
+E:\SAKKAPPAN\D\Rajendira GARMENTS\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Price_List_report.resources
+E:\SAKKAPPAN\D\Rajendira GARMENTS\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Product_Code_type.resources
+E:\SAKKAPPAN\D\Rajendira GARMENTS\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Product_entry_report.resources
+E:\SAKKAPPAN\D\Rajendira GARMENTS\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\SAKKAPPAN\D\Rajendira GARMENTS\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Send_sms.resources
+E:\SAKKAPPAN\D\Rajendira GARMENTS\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Subcategry_report.resources
+E:\SAKKAPPAN\D\Rajendira GARMENTS\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.transport.resources
+E:\SAKKAPPAN\D\Rajendira GARMENTS\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+E:\SAKKAPPAN\D\Rajendira GARMENTS\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+E:\SAKKAPPAN\D\Rajendira GARMENTS\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+E:\SAKKAPPAN\D\Rajendira\Rajendira GARMENTS\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+E:\SAKKAPPAN\D\Rajendira\Rajendira GARMENTS\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+E:\SAKKAPPAN\D\Rajendira\Rajendira GARMENTS\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+E:\SAKKAPPAN\D\Rajendira\Rajendira GARMENTS\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\SAKKAPPAN\D\Rajendira\Rajendira GARMENTS\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\SAKKAPPAN\D\Rajendira\Rajendira GARMENTS\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+E:\SAKKAPPAN\D\Rajendira\Rajendira GARMENTS\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Category_report.resources
+E:\SAKKAPPAN\D\Rajendira\Rajendira GARMENTS\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Customer_Report_Details.resources
+E:\SAKKAPPAN\D\Rajendira\Rajendira GARMENTS\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Edit_invoice.resources
+E:\SAKKAPPAN\D\Rajendira\Rajendira GARMENTS\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Estimate__report_show.resources
+E:\SAKKAPPAN\D\Rajendira\Rajendira GARMENTS\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Estimate.resources
+E:\SAKKAPPAN\D\Rajendira\Rajendira GARMENTS\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Estimate_Report_details.resources
+E:\SAKKAPPAN\D\Rajendira\Rajendira GARMENTS\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+E:\SAKKAPPAN\D\Rajendira\Rajendira GARMENTS\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form2.resources
+E:\SAKKAPPAN\D\Rajendira\Rajendira GARMENTS\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.frmCategory.resources
+E:\SAKKAPPAN\D\Rajendira\Rajendira GARMENTS\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.frmCustomerDetails.resources
+E:\SAKKAPPAN\D\Rajendira\Rajendira GARMENTS\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.frmproductEntry.resources
+E:\SAKKAPPAN\D\Rajendira\Rajendira GARMENTS\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.frmsalesinvoice.resources
+E:\SAKKAPPAN\D\Rajendira\Rajendira GARMENTS\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.frmSubCategory.resources
+E:\SAKKAPPAN\D\Rajendira\Rajendira GARMENTS\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Invoice_report.resources
+E:\SAKKAPPAN\D\Rajendira\Rajendira GARMENTS\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.invoice_report_details.resources
+E:\SAKKAPPAN\D\Rajendira\Rajendira GARMENTS\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Invoice_report_show.resources
+E:\SAKKAPPAN\D\Rajendira\Rajendira GARMENTS\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Login.resources
+E:\SAKKAPPAN\D\Rajendira\Rajendira GARMENTS\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.PriceList.resources
+E:\SAKKAPPAN\D\Rajendira\Rajendira GARMENTS\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Price_List_edit.resources
+E:\SAKKAPPAN\D\Rajendira\Rajendira GARMENTS\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Price_List_report.resources
+E:\SAKKAPPAN\D\Rajendira\Rajendira GARMENTS\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Product_Code_type.resources
+E:\SAKKAPPAN\D\Rajendira\Rajendira GARMENTS\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Product_entry_report.resources
+E:\SAKKAPPAN\D\Rajendira\Rajendira GARMENTS\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\SAKKAPPAN\D\Rajendira\Rajendira GARMENTS\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Send_sms.resources
+E:\SAKKAPPAN\D\Rajendira\Rajendira GARMENTS\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Subcategry_report.resources
+E:\SAKKAPPAN\D\Rajendira\Rajendira GARMENTS\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.transport.resources
+E:\SAKKAPPAN\D\Rajendira\Rajendira GARMENTS\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+E:\SAKKAPPAN\D\Rajendira GARMENTS\Rajendira GARMENTS\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+E:\SAKKAPPAN\D\Rajendira GARMENTS\Rajendira GARMENTS\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+E:\SAKKAPPAN\D\Rajendira GARMENTS\Rajendira GARMENTS\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+E:\SAKKAPPAN\D\Rajendira GARMENTS\Rajendira GARMENTS\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\SAKKAPPAN\D\Rajendira GARMENTS\Rajendira GARMENTS\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\SAKKAPPAN\D\Rajendira GARMENTS\Rajendira GARMENTS\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+E:\SAKKAPPAN\D\Rajendira GARMENTS\Rajendira GARMENTS\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Category_report.resources
+E:\SAKKAPPAN\D\Rajendira GARMENTS\Rajendira GARMENTS\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Customer_Report_Details.resources
+E:\SAKKAPPAN\D\Rajendira GARMENTS\Rajendira GARMENTS\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Edit_invoice.resources
+E:\SAKKAPPAN\D\Rajendira GARMENTS\Rajendira GARMENTS\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Estimate__report_show.resources
+E:\SAKKAPPAN\D\Rajendira GARMENTS\Rajendira GARMENTS\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Estimate.resources
+E:\SAKKAPPAN\D\Rajendira GARMENTS\Rajendira GARMENTS\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Estimate_Report_details.resources
+E:\SAKKAPPAN\D\Rajendira GARMENTS\Rajendira GARMENTS\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+E:\SAKKAPPAN\D\Rajendira GARMENTS\Rajendira GARMENTS\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form2.resources
+E:\SAKKAPPAN\D\Rajendira GARMENTS\Rajendira GARMENTS\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.frmCategory.resources
+E:\SAKKAPPAN\D\Rajendira GARMENTS\Rajendira GARMENTS\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.frmCustomerDetails.resources
+E:\SAKKAPPAN\D\Rajendira GARMENTS\Rajendira GARMENTS\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.frmproductEntry.resources
+E:\SAKKAPPAN\D\Rajendira GARMENTS\Rajendira GARMENTS\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.frmsalesinvoice.resources
+E:\SAKKAPPAN\D\Rajendira GARMENTS\Rajendira GARMENTS\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.frmSubCategory.resources
+E:\SAKKAPPAN\D\Rajendira GARMENTS\Rajendira GARMENTS\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Invoice_report.resources
+E:\SAKKAPPAN\D\Rajendira GARMENTS\Rajendira GARMENTS\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.invoice_report_details.resources
+E:\SAKKAPPAN\D\Rajendira GARMENTS\Rajendira GARMENTS\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Invoice_report_show.resources
+E:\SAKKAPPAN\D\Rajendira GARMENTS\Rajendira GARMENTS\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Login.resources
+E:\SAKKAPPAN\D\Rajendira GARMENTS\Rajendira GARMENTS\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.PriceList.resources
+E:\SAKKAPPAN\D\Rajendira GARMENTS\Rajendira GARMENTS\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Price_List_edit.resources
+E:\SAKKAPPAN\D\Rajendira GARMENTS\Rajendira GARMENTS\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Price_List_report.resources
+E:\SAKKAPPAN\D\Rajendira GARMENTS\Rajendira GARMENTS\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Product_Code_type.resources
+E:\SAKKAPPAN\D\Rajendira GARMENTS\Rajendira GARMENTS\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Product_entry_report.resources
+E:\SAKKAPPAN\D\Rajendira GARMENTS\Rajendira GARMENTS\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\SAKKAPPAN\D\Rajendira GARMENTS\Rajendira GARMENTS\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Send_sms.resources
+E:\SAKKAPPAN\D\Rajendira GARMENTS\Rajendira GARMENTS\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Subcategry_report.resources
+E:\SAKKAPPAN\D\Rajendira GARMENTS\Rajendira GARMENTS\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.transport.resources
+E:\SAKKAPPAN\D\Rajendira GARMENTS\Rajendira GARMENTS\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+E:\SAKKAPPAN\D\Rajendira GARMENTS\Rajendira GARMENTS\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Estimate_amount_status.resources
+E:\SAKKAPPAN\D\Rajendira GARMENTS\Rajendira GARMENTS\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Condition.resources
+E:\SAKKAPPAN\D\Rajendira GARMENTS\New folder\Rajendira GARMENTS\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+E:\SAKKAPPAN\D\Rajendira GARMENTS\New folder\Rajendira GARMENTS\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\SAKKAPPAN\D\Rajendira GARMENTS\New folder\Rajendira GARMENTS\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\SAKKAPPAN\D\Rajendira GARMENTS\New folder\Rajendira GARMENTS\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+E:\SAKKAPPAN\D\Rajendira GARMENTS\New folder\Rajendira GARMENTS\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Category_report.resources
+E:\SAKKAPPAN\D\Rajendira GARMENTS\New folder\Rajendira GARMENTS\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Condition.resources
+E:\SAKKAPPAN\D\Rajendira GARMENTS\New folder\Rajendira GARMENTS\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Customer_Report_Details.resources
+E:\SAKKAPPAN\D\Rajendira GARMENTS\New folder\Rajendira GARMENTS\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Edit_invoice.resources
+E:\SAKKAPPAN\D\Rajendira GARMENTS\New folder\Rajendira GARMENTS\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Estimate__report_show.resources
+E:\SAKKAPPAN\D\Rajendira GARMENTS\New folder\Rajendira GARMENTS\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Estimate.resources
+E:\SAKKAPPAN\D\Rajendira GARMENTS\New folder\Rajendira GARMENTS\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Estimate_amount_status.resources
+E:\SAKKAPPAN\D\Rajendira GARMENTS\New folder\Rajendira GARMENTS\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Estimate_Report_details.resources
+E:\SAKKAPPAN\D\Rajendira GARMENTS\New folder\Rajendira GARMENTS\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+E:\SAKKAPPAN\D\Rajendira GARMENTS\New folder\Rajendira GARMENTS\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form2.resources
+E:\SAKKAPPAN\D\Rajendira GARMENTS\New folder\Rajendira GARMENTS\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.frmCategory.resources
+E:\SAKKAPPAN\D\Rajendira GARMENTS\New folder\Rajendira GARMENTS\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.frmCustomerDetails.resources
+E:\SAKKAPPAN\D\Rajendira GARMENTS\New folder\Rajendira GARMENTS\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.frmproductEntry.resources
+E:\SAKKAPPAN\D\Rajendira GARMENTS\New folder\Rajendira GARMENTS\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.frmsalesinvoice.resources
+E:\SAKKAPPAN\D\Rajendira GARMENTS\New folder\Rajendira GARMENTS\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.frmSubCategory.resources
+E:\SAKKAPPAN\D\Rajendira GARMENTS\New folder\Rajendira GARMENTS\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Invoice_report.resources
+E:\SAKKAPPAN\D\Rajendira GARMENTS\New folder\Rajendira GARMENTS\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.invoice_report_details.resources
+E:\SAKKAPPAN\D\Rajendira GARMENTS\New folder\Rajendira GARMENTS\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Invoice_report_show.resources
+E:\SAKKAPPAN\D\Rajendira GARMENTS\New folder\Rajendira GARMENTS\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Login.resources
+E:\SAKKAPPAN\D\Rajendira GARMENTS\New folder\Rajendira GARMENTS\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.PriceList.resources
+E:\SAKKAPPAN\D\Rajendira GARMENTS\New folder\Rajendira GARMENTS\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Price_List_edit.resources
+E:\SAKKAPPAN\D\Rajendira GARMENTS\New folder\Rajendira GARMENTS\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Price_List_report.resources
+E:\SAKKAPPAN\D\Rajendira GARMENTS\New folder\Rajendira GARMENTS\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Product_Code_type.resources
+E:\SAKKAPPAN\D\Rajendira GARMENTS\New folder\Rajendira GARMENTS\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Product_entry_report.resources
+E:\SAKKAPPAN\D\Rajendira GARMENTS\New folder\Rajendira GARMENTS\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\SAKKAPPAN\D\Rajendira GARMENTS\New folder\Rajendira GARMENTS\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Send_sms.resources
+E:\SAKKAPPAN\D\Rajendira GARMENTS\New folder\Rajendira GARMENTS\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Subcategry_report.resources
+E:\SAKKAPPAN\D\Rajendira GARMENTS\New folder\Rajendira GARMENTS\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.transport.resources
+E:\SAKKAPPAN\D\Rajendira GARMENTS\New folder\Rajendira GARMENTS\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+E:\SAKKAPPAN\D\Rajendira GARMENTS\New folder\Rajendira GARMENTS\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+E:\SAKKAPPAN\D\Rajendira GARMENTS\New folder\Rajendira GARMENTS\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+E:\SAKKAPPAN\D\Rajendira GARMENTS\New folder\without estimate\Rajendira GARMENTS\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+E:\SAKKAPPAN\D\Rajendira GARMENTS\New folder\without estimate\Rajendira GARMENTS\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+E:\SAKKAPPAN\D\Rajendira GARMENTS\New folder\without estimate\Rajendira GARMENTS\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+E:\SAKKAPPAN\D\Rajendira GARMENTS\New folder\without estimate\Rajendira GARMENTS\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\SAKKAPPAN\D\Rajendira GARMENTS\New folder\without estimate\Rajendira GARMENTS\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\SAKKAPPAN\D\Rajendira GARMENTS\New folder\without estimate\Rajendira GARMENTS\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+E:\SAKKAPPAN\D\Rajendira GARMENTS\New folder\without estimate\Rajendira GARMENTS\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Category_report.resources
+E:\SAKKAPPAN\D\Rajendira GARMENTS\New folder\without estimate\Rajendira GARMENTS\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Condition.resources
+E:\SAKKAPPAN\D\Rajendira GARMENTS\New folder\without estimate\Rajendira GARMENTS\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Customer_Report_Details.resources
+E:\SAKKAPPAN\D\Rajendira GARMENTS\New folder\without estimate\Rajendira GARMENTS\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Edit_invoice.resources
+E:\SAKKAPPAN\D\Rajendira GARMENTS\New folder\without estimate\Rajendira GARMENTS\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+E:\SAKKAPPAN\D\Rajendira GARMENTS\New folder\without estimate\Rajendira GARMENTS\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form2.resources
+E:\SAKKAPPAN\D\Rajendira GARMENTS\New folder\without estimate\Rajendira GARMENTS\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.frmCategory.resources
+E:\SAKKAPPAN\D\Rajendira GARMENTS\New folder\without estimate\Rajendira GARMENTS\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.frmCustomerDetails.resources
+E:\SAKKAPPAN\D\Rajendira GARMENTS\New folder\without estimate\Rajendira GARMENTS\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.frmproductEntry.resources
+E:\SAKKAPPAN\D\Rajendira GARMENTS\New folder\without estimate\Rajendira GARMENTS\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.frmsalesinvoice.resources
+E:\SAKKAPPAN\D\Rajendira GARMENTS\New folder\without estimate\Rajendira GARMENTS\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.frmSubCategory.resources
+E:\SAKKAPPAN\D\Rajendira GARMENTS\New folder\without estimate\Rajendira GARMENTS\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Invoice_report.resources
+E:\SAKKAPPAN\D\Rajendira GARMENTS\New folder\without estimate\Rajendira GARMENTS\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.invoice_report_details.resources
+E:\SAKKAPPAN\D\Rajendira GARMENTS\New folder\without estimate\Rajendira GARMENTS\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Invoice_report_show.resources
+E:\SAKKAPPAN\D\Rajendira GARMENTS\New folder\without estimate\Rajendira GARMENTS\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Login.resources
+E:\SAKKAPPAN\D\Rajendira GARMENTS\New folder\without estimate\Rajendira GARMENTS\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.PriceList.resources
+E:\SAKKAPPAN\D\Rajendira GARMENTS\New folder\without estimate\Rajendira GARMENTS\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Price_List_edit.resources
+E:\SAKKAPPAN\D\Rajendira GARMENTS\New folder\without estimate\Rajendira GARMENTS\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Price_List_report.resources
+E:\SAKKAPPAN\D\Rajendira GARMENTS\New folder\without estimate\Rajendira GARMENTS\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Product_Code_type.resources
+E:\SAKKAPPAN\D\Rajendira GARMENTS\New folder\without estimate\Rajendira GARMENTS\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Product_entry_report.resources
+E:\SAKKAPPAN\D\Rajendira GARMENTS\New folder\without estimate\Rajendira GARMENTS\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\SAKKAPPAN\D\Rajendira GARMENTS\New folder\without estimate\Rajendira GARMENTS\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Send_sms.resources
+E:\SAKKAPPAN\D\Rajendira GARMENTS\New folder\without estimate\Rajendira GARMENTS\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Subcategry_report.resources
+E:\SAKKAPPAN\D\Rajendira GARMENTS\New folder\without estimate\Rajendira GARMENTS\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.transport.resources
+E:\SAKKAPPAN\D\Rajendira GARMENTS\New folder\without estimate\Rajendira GARMENTS\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+E:\SAKKAPPAN\D\Rajendira GARMENTS\New folder\Rajendira GARMENTS WITHOUT ESTIMATE\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+E:\SAKKAPPAN\D\Rajendira GARMENTS\New folder\Rajendira GARMENTS WITHOUT ESTIMATE\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+E:\SAKKAPPAN\D\Rajendira GARMENTS\New folder\Rajendira GARMENTS WITHOUT ESTIMATE\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+E:\SAKKAPPAN\D\Rajendira GARMENTS\New folder\Rajendira GARMENTS WITHOUT ESTIMATE\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\SAKKAPPAN\D\Rajendira GARMENTS\New folder\Rajendira GARMENTS WITHOUT ESTIMATE\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\SAKKAPPAN\D\Rajendira GARMENTS\New folder\Rajendira GARMENTS WITHOUT ESTIMATE\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+E:\SAKKAPPAN\D\Rajendira GARMENTS\New folder\Rajendira GARMENTS WITHOUT ESTIMATE\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Category_report.resources
+E:\SAKKAPPAN\D\Rajendira GARMENTS\New folder\Rajendira GARMENTS WITHOUT ESTIMATE\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Condition.resources
+E:\SAKKAPPAN\D\Rajendira GARMENTS\New folder\Rajendira GARMENTS WITHOUT ESTIMATE\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Customer_Report_Details.resources
+E:\SAKKAPPAN\D\Rajendira GARMENTS\New folder\Rajendira GARMENTS WITHOUT ESTIMATE\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Edit_invoice.resources
+E:\SAKKAPPAN\D\Rajendira GARMENTS\New folder\Rajendira GARMENTS WITHOUT ESTIMATE\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+E:\SAKKAPPAN\D\Rajendira GARMENTS\New folder\Rajendira GARMENTS WITHOUT ESTIMATE\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form2.resources
+E:\SAKKAPPAN\D\Rajendira GARMENTS\New folder\Rajendira GARMENTS WITHOUT ESTIMATE\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.frmCategory.resources
+E:\SAKKAPPAN\D\Rajendira GARMENTS\New folder\Rajendira GARMENTS WITHOUT ESTIMATE\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.frmCustomerDetails.resources
+E:\SAKKAPPAN\D\Rajendira GARMENTS\New folder\Rajendira GARMENTS WITHOUT ESTIMATE\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.frmproductEntry.resources
+E:\SAKKAPPAN\D\Rajendira GARMENTS\New folder\Rajendira GARMENTS WITHOUT ESTIMATE\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.frmsalesinvoice.resources
+E:\SAKKAPPAN\D\Rajendira GARMENTS\New folder\Rajendira GARMENTS WITHOUT ESTIMATE\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.frmSubCategory.resources
+E:\SAKKAPPAN\D\Rajendira GARMENTS\New folder\Rajendira GARMENTS WITHOUT ESTIMATE\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Invoice_report.resources
+E:\SAKKAPPAN\D\Rajendira GARMENTS\New folder\Rajendira GARMENTS WITHOUT ESTIMATE\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.invoice_report_details.resources
+E:\SAKKAPPAN\D\Rajendira GARMENTS\New folder\Rajendira GARMENTS WITHOUT ESTIMATE\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Invoice_report_show.resources
+E:\SAKKAPPAN\D\Rajendira GARMENTS\New folder\Rajendira GARMENTS WITHOUT ESTIMATE\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Login.resources
+E:\SAKKAPPAN\D\Rajendira GARMENTS\New folder\Rajendira GARMENTS WITHOUT ESTIMATE\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.PriceList.resources
+E:\SAKKAPPAN\D\Rajendira GARMENTS\New folder\Rajendira GARMENTS WITHOUT ESTIMATE\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Price_List_edit.resources
+E:\SAKKAPPAN\D\Rajendira GARMENTS\New folder\Rajendira GARMENTS WITHOUT ESTIMATE\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Price_List_report.resources
+E:\SAKKAPPAN\D\Rajendira GARMENTS\New folder\Rajendira GARMENTS WITHOUT ESTIMATE\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Product_Code_type.resources
+E:\SAKKAPPAN\D\Rajendira GARMENTS\New folder\Rajendira GARMENTS WITHOUT ESTIMATE\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Product_entry_report.resources
+E:\SAKKAPPAN\D\Rajendira GARMENTS\New folder\Rajendira GARMENTS WITHOUT ESTIMATE\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\SAKKAPPAN\D\Rajendira GARMENTS\New folder\Rajendira GARMENTS WITHOUT ESTIMATE\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Send_sms.resources
+E:\SAKKAPPAN\D\Rajendira GARMENTS\New folder\Rajendira GARMENTS WITHOUT ESTIMATE\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Subcategry_report.resources
+E:\SAKKAPPAN\D\Rajendira GARMENTS\New folder\Rajendira GARMENTS WITHOUT ESTIMATE\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.transport.resources
+E:\SAKKAPPAN\D\Rajendira GARMENTS\New folder\Rajendira GARMENTS WITHOUT ESTIMATE\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+E:\SAKKAPPAN\E\repos\Vertex project backup (09-Feb-2017)\Rajendira GARMENTS\New folder\Rajendira GARMENTS WITHOUT ESTIMATE\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+E:\SAKKAPPAN\E\repos\Vertex project backup (09-Feb-2017)\Rajendira GARMENTS\New folder\Rajendira GARMENTS WITHOUT ESTIMATE\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+E:\SAKKAPPAN\E\repos\Vertex project backup (09-Feb-2017)\Rajendira GARMENTS\New folder\Rajendira GARMENTS WITHOUT ESTIMATE\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+E:\SAKKAPPAN\E\repos\Vertex project backup (09-Feb-2017)\Rajendira GARMENTS\New folder\Rajendira GARMENTS WITHOUT ESTIMATE\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\SAKKAPPAN\E\repos\Vertex project backup (09-Feb-2017)\Rajendira GARMENTS\New folder\Rajendira GARMENTS WITHOUT ESTIMATE\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\SAKKAPPAN\E\repos\Vertex project backup (09-Feb-2017)\Rajendira GARMENTS\New folder\Rajendira GARMENTS WITHOUT ESTIMATE\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+E:\SAKKAPPAN\E\repos\Vertex project backup (09-Feb-2017)\Rajendira GARMENTS\New folder\Rajendira GARMENTS WITHOUT ESTIMATE\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Category_report.resources
+E:\SAKKAPPAN\E\repos\Vertex project backup (09-Feb-2017)\Rajendira GARMENTS\New folder\Rajendira GARMENTS WITHOUT ESTIMATE\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Condition.resources
+E:\SAKKAPPAN\E\repos\Vertex project backup (09-Feb-2017)\Rajendira GARMENTS\New folder\Rajendira GARMENTS WITHOUT ESTIMATE\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Customer_Report_Details.resources
+E:\SAKKAPPAN\E\repos\Vertex project backup (09-Feb-2017)\Rajendira GARMENTS\New folder\Rajendira GARMENTS WITHOUT ESTIMATE\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Edit_invoice.resources
+E:\SAKKAPPAN\E\repos\Vertex project backup (09-Feb-2017)\Rajendira GARMENTS\New folder\Rajendira GARMENTS WITHOUT ESTIMATE\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+E:\SAKKAPPAN\E\repos\Vertex project backup (09-Feb-2017)\Rajendira GARMENTS\New folder\Rajendira GARMENTS WITHOUT ESTIMATE\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form2.resources
+E:\SAKKAPPAN\E\repos\Vertex project backup (09-Feb-2017)\Rajendira GARMENTS\New folder\Rajendira GARMENTS WITHOUT ESTIMATE\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.frmCategory.resources
+E:\SAKKAPPAN\E\repos\Vertex project backup (09-Feb-2017)\Rajendira GARMENTS\New folder\Rajendira GARMENTS WITHOUT ESTIMATE\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.frmCustomerDetails.resources
+E:\SAKKAPPAN\E\repos\Vertex project backup (09-Feb-2017)\Rajendira GARMENTS\New folder\Rajendira GARMENTS WITHOUT ESTIMATE\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.frmproductEntry.resources
+E:\SAKKAPPAN\E\repos\Vertex project backup (09-Feb-2017)\Rajendira GARMENTS\New folder\Rajendira GARMENTS WITHOUT ESTIMATE\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.frmsalesinvoice.resources
+E:\SAKKAPPAN\E\repos\Vertex project backup (09-Feb-2017)\Rajendira GARMENTS\New folder\Rajendira GARMENTS WITHOUT ESTIMATE\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.frmSubCategory.resources
+E:\SAKKAPPAN\E\repos\Vertex project backup (09-Feb-2017)\Rajendira GARMENTS\New folder\Rajendira GARMENTS WITHOUT ESTIMATE\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Invoice_report.resources
+E:\SAKKAPPAN\E\repos\Vertex project backup (09-Feb-2017)\Rajendira GARMENTS\New folder\Rajendira GARMENTS WITHOUT ESTIMATE\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.invoice_report_details.resources
+E:\SAKKAPPAN\E\repos\Vertex project backup (09-Feb-2017)\Rajendira GARMENTS\New folder\Rajendira GARMENTS WITHOUT ESTIMATE\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Invoice_report_show.resources
+E:\SAKKAPPAN\E\repos\Vertex project backup (09-Feb-2017)\Rajendira GARMENTS\New folder\Rajendira GARMENTS WITHOUT ESTIMATE\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Login.resources
+E:\SAKKAPPAN\E\repos\Vertex project backup (09-Feb-2017)\Rajendira GARMENTS\New folder\Rajendira GARMENTS WITHOUT ESTIMATE\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.PriceList.resources
+E:\SAKKAPPAN\E\repos\Vertex project backup (09-Feb-2017)\Rajendira GARMENTS\New folder\Rajendira GARMENTS WITHOUT ESTIMATE\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Price_List_edit.resources
+E:\SAKKAPPAN\E\repos\Vertex project backup (09-Feb-2017)\Rajendira GARMENTS\New folder\Rajendira GARMENTS WITHOUT ESTIMATE\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Price_List_report.resources
+E:\SAKKAPPAN\E\repos\Vertex project backup (09-Feb-2017)\Rajendira GARMENTS\New folder\Rajendira GARMENTS WITHOUT ESTIMATE\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Product_Code_type.resources
+E:\SAKKAPPAN\E\repos\Vertex project backup (09-Feb-2017)\Rajendira GARMENTS\New folder\Rajendira GARMENTS WITHOUT ESTIMATE\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Product_entry_report.resources
+E:\SAKKAPPAN\E\repos\Vertex project backup (09-Feb-2017)\Rajendira GARMENTS\New folder\Rajendira GARMENTS WITHOUT ESTIMATE\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\SAKKAPPAN\E\repos\Vertex project backup (09-Feb-2017)\Rajendira GARMENTS\New folder\Rajendira GARMENTS WITHOUT ESTIMATE\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Send_sms.resources
+E:\SAKKAPPAN\E\repos\Vertex project backup (09-Feb-2017)\Rajendira GARMENTS\New folder\Rajendira GARMENTS WITHOUT ESTIMATE\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Subcategry_report.resources
+E:\SAKKAPPAN\E\repos\Vertex project backup (09-Feb-2017)\Rajendira GARMENTS\New folder\Rajendira GARMENTS WITHOUT ESTIMATE\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.transport.resources
+E:\SAKKAPPAN\E\repos\Vertex project backup (09-Feb-2017)\Rajendira GARMENTS\New folder\Rajendira GARMENTS WITHOUT ESTIMATE\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+E:\SAKKAPPAN\E\repos\Vertex project backup (09-Feb-2017)\Rajendira GARMENTS\New folder\Rajendira GARMENTS WITHOUT ESTIMATE\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Financial_year.resources
+E:\SAKKAPPAN\E\repos\Vertex project backup (09-Feb-2017)\Rajendira GARMENTS\New folder\Rajendira GARMENTS WITHOUT ESTIMATE\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Database_backup.resources
+D:\repos\Vertex project backup (09-Feb-2017)\Rajendira GARMENTS\New\Rajendira GARMENTS WITHOUT ESTIMATE\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\repos\Vertex project backup (09-Feb-2017)\Rajendira GARMENTS\New\Rajendira GARMENTS WITHOUT ESTIMATE\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+D:\repos\Vertex project backup (09-Feb-2017)\Rajendira GARMENTS\New\Rajendira GARMENTS WITHOUT ESTIMATE\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+D:\repos\Vertex project backup (09-Feb-2017)\Rajendira GARMENTS\New\Rajendira GARMENTS WITHOUT ESTIMATE\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\repos\Vertex project backup (09-Feb-2017)\Rajendira GARMENTS\New\Rajendira GARMENTS WITHOUT ESTIMATE\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\repos\Vertex project backup (09-Feb-2017)\Rajendira GARMENTS\New\Rajendira GARMENTS WITHOUT ESTIMATE\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+D:\repos\Vertex project backup (09-Feb-2017)\Rajendira GARMENTS\New\Rajendira GARMENTS WITHOUT ESTIMATE\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Category_report.resources
+D:\repos\Vertex project backup (09-Feb-2017)\Rajendira GARMENTS\New\Rajendira GARMENTS WITHOUT ESTIMATE\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Condition.resources
+D:\repos\Vertex project backup (09-Feb-2017)\Rajendira GARMENTS\New\Rajendira GARMENTS WITHOUT ESTIMATE\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Customer_Report_Details.resources
+D:\repos\Vertex project backup (09-Feb-2017)\Rajendira GARMENTS\New\Rajendira GARMENTS WITHOUT ESTIMATE\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Database_backup.resources
+D:\repos\Vertex project backup (09-Feb-2017)\Rajendira GARMENTS\New\Rajendira GARMENTS WITHOUT ESTIMATE\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Edit_invoice.resources
+D:\repos\Vertex project backup (09-Feb-2017)\Rajendira GARMENTS\New\Rajendira GARMENTS WITHOUT ESTIMATE\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Financial_year.resources
+D:\repos\Vertex project backup (09-Feb-2017)\Rajendira GARMENTS\New\Rajendira GARMENTS WITHOUT ESTIMATE\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+D:\repos\Vertex project backup (09-Feb-2017)\Rajendira GARMENTS\New\Rajendira GARMENTS WITHOUT ESTIMATE\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form2.resources
+D:\repos\Vertex project backup (09-Feb-2017)\Rajendira GARMENTS\New\Rajendira GARMENTS WITHOUT ESTIMATE\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.frmCategory.resources
+D:\repos\Vertex project backup (09-Feb-2017)\Rajendira GARMENTS\New\Rajendira GARMENTS WITHOUT ESTIMATE\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.frmCustomerDetails.resources
+D:\repos\Vertex project backup (09-Feb-2017)\Rajendira GARMENTS\New\Rajendira GARMENTS WITHOUT ESTIMATE\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.frmproductEntry.resources
+D:\repos\Vertex project backup (09-Feb-2017)\Rajendira GARMENTS\New\Rajendira GARMENTS WITHOUT ESTIMATE\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.frmsalesinvoice.resources
+D:\repos\Vertex project backup (09-Feb-2017)\Rajendira GARMENTS\New\Rajendira GARMENTS WITHOUT ESTIMATE\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.frmSubCategory.resources
+D:\repos\Vertex project backup (09-Feb-2017)\Rajendira GARMENTS\New\Rajendira GARMENTS WITHOUT ESTIMATE\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Invoice_report.resources
+D:\repos\Vertex project backup (09-Feb-2017)\Rajendira GARMENTS\New\Rajendira GARMENTS WITHOUT ESTIMATE\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.invoice_report_details.resources
+D:\repos\Vertex project backup (09-Feb-2017)\Rajendira GARMENTS\New\Rajendira GARMENTS WITHOUT ESTIMATE\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Invoice_report_show.resources
+D:\repos\Vertex project backup (09-Feb-2017)\Rajendira GARMENTS\New\Rajendira GARMENTS WITHOUT ESTIMATE\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Login.resources
+D:\repos\Vertex project backup (09-Feb-2017)\Rajendira GARMENTS\New\Rajendira GARMENTS WITHOUT ESTIMATE\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.PriceList.resources
+D:\repos\Vertex project backup (09-Feb-2017)\Rajendira GARMENTS\New\Rajendira GARMENTS WITHOUT ESTIMATE\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Price_List_edit.resources
+D:\repos\Vertex project backup (09-Feb-2017)\Rajendira GARMENTS\New\Rajendira GARMENTS WITHOUT ESTIMATE\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Price_List_report.resources
+D:\repos\Vertex project backup (09-Feb-2017)\Rajendira GARMENTS\New\Rajendira GARMENTS WITHOUT ESTIMATE\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Product_Code_type.resources
+D:\repos\Vertex project backup (09-Feb-2017)\Rajendira GARMENTS\New\Rajendira GARMENTS WITHOUT ESTIMATE\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Product_entry_report.resources
+D:\repos\Vertex project backup (09-Feb-2017)\Rajendira GARMENTS\New\Rajendira GARMENTS WITHOUT ESTIMATE\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\repos\Vertex project backup (09-Feb-2017)\Rajendira GARMENTS\New\Rajendira GARMENTS WITHOUT ESTIMATE\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Send_sms.resources
+D:\repos\Vertex project backup (09-Feb-2017)\Rajendira GARMENTS\New\Rajendira GARMENTS WITHOUT ESTIMATE\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Subcategry_report.resources
+D:\repos\Vertex project backup (09-Feb-2017)\Rajendira GARMENTS\New\Rajendira GARMENTS WITHOUT ESTIMATE\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.transport.resources
+D:\repos\Vertex project backup (09-Feb-2017)\Rajendira GARMENTS\New\Rajendira GARMENTS WITHOUT ESTIMATE\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+D:\repos\Vertex project backup (09-Feb-2017)\Rajendira GARMENTS\New\Rajendira GARMENTS WITHOUT ESTIMATE\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Sales_invoice.resources
