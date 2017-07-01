@@ -130,5 +130,10 @@ namespace WindowsFormsApplication1
                 button3.PerformClick();
             }
         }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

@@ -43,6 +43,7 @@
             this.priceListEditToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.toolStripMenuItem1 = new System.Windows.Forms.ToolStripMenuItem();
             this.toolStripMenuItem2 = new System.Windows.Forms.ToolStripMenuItem();
+            this.gstInvoiceToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.recordsToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.estimateToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.subcategoryReportToolStripMenuItem1 = new System.Windows.Forms.ToolStripMenuItem();
@@ -75,7 +76,6 @@
             this.toolStripMenuItem11 = new System.Windows.Forms.ToolStripMenuItem();
             this.toolStripMenuItem12 = new System.Windows.Forms.ToolStripMenuItem();
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
-            this.gstInvoiceToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.menuStrip2.SuspendLayout();
             this.StatusStrip1.SuspendLayout();
             this.menuStrip3.SuspendLayout();
@@ -222,6 +222,14 @@
             this.toolStripMenuItem2.Size = new System.Drawing.Size(230, 26);
             this.toolStripMenuItem2.Text = "Sales Invoice";
             this.toolStripMenuItem2.Click += new System.EventHandler(this.toolStripMenuItem2_Click_1);
+            // 
+            // gstInvoiceToolStripMenuItem
+            // 
+            this.gstInvoiceToolStripMenuItem.Image = global::WindowsFormsApplication1.Properties.Resources.Box;
+            this.gstInvoiceToolStripMenuItem.Name = "gstInvoiceToolStripMenuItem";
+            this.gstInvoiceToolStripMenuItem.Size = new System.Drawing.Size(230, 26);
+            this.gstInvoiceToolStripMenuItem.Text = "Gst invoice";
+            this.gstInvoiceToolStripMenuItem.Click += new System.EventHandler(this.gstInvoiceToolStripMenuItem_Click);
             // 
             // recordsToolStripMenuItem
             // 
@@ -539,13 +547,6 @@
             this.pictureBox1.Size = new System.Drawing.Size(971, 513);
             this.pictureBox1.TabIndex = 9;
             this.pictureBox1.TabStop = false;
-            // 
-            // gstInvoiceToolStripMenuItem
-            // 
-            this.gstInvoiceToolStripMenuItem.Name = "gstInvoiceToolStripMenuItem";
-            this.gstInvoiceToolStripMenuItem.Size = new System.Drawing.Size(230, 26);
-            this.gstInvoiceToolStripMenuItem.Text = "Gst invoice";
-            this.gstInvoiceToolStripMenuItem.Click += new System.EventHandler(this.gstInvoiceToolStripMenuItem_Click);
             // 
             // Form1
             // 
